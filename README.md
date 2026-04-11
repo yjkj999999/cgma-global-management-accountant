@@ -1,3 +1,14 @@
+[![ClawHub](https://img.shields.io/badge/ClawHub-v1.0.0-蓝色?style=flat-square)](https://clawhub.ai/yjkj999999/cgma-global-management-accountant)
+[![GitHub Stars](https://img.shields.io/github/stars/yjkj999999/cgma-global-management-accountant?style=flat-square)](https://github.com/yjkj999999/cgma-global-management-accountant)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+
+### 安装版本说明
+
+- **ClawHub 一键安装版**（精简版，约 440 行）：访问 [ClawHub 页面](https://clawhub.ai/yjkj999999/cgma-global-management-accountant)，WorkBuddy 用户可直接一键安装
+- **GitHub 完整版**（1273 行）：包含所有 16 个模块完整内容，推荐深度用户使用
+
+---
+
 # 🏛️ CGMA 全球管理会计师 Skill
 
 > **为 WorkBuddy 打造的中国首个 CGMA 超级个人 IP 专家系统**
